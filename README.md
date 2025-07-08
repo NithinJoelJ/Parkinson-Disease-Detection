@@ -35,4 +35,4 @@ Read more: [Baeldung - SVM Multiclass Classification](https://www.baeldung.com/c
 
 ---
 
-### 👨‍💻 Created by Nithin Joel J
+### 👨‍💻 Created by J Nithin Joel
